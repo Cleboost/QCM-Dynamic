@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project xmlns="http://www.purebasic.com/namespace" version="1.0" creator="PureBasic 5.70 LTS (Windows - x86)">
+  <section name="config">
+    <options closefiles="1" openmode="0" name="QCM Dynamic"/>
+  </section>
+  <section name="data">
+    <explorer view="" pattern="0"/>
+    <log show="1"/>
+    <lastopen date="2020-12-21 16:04" user="UTILISATEUR2" host="PC-LUCECLE"/>
+  </section>
+  <section name="files">
+    <file name="Enumeration.pb">
+      <config load="1" scan="1" panel="1" warn="1" lastopen="1" panelstate="+"/>
+      <fingerprint md5="7ce193445c6e10a20dd1ae0f9c2996db"/>
+    </file>
+    <file name="Main.pb">
+      <config load="1" scan="1" panel="1" warn="1" lastopen="1" panelstate="+"/>
+      <fingerprint md5="b8ec6579c0f5f136f85ccedfb93d7ce7"/>
+    </file>
+    <file name="Procedure.pb">
+      <config load="1" scan="1" panel="1" warn="1" lastopen="1" panelstate="+"/>
+      <fingerprint md5="fe8668c990d36987c91e60df698eed45"/>
+    </file>
+  </section>
+  <section name="targets">
+    <target name="Cible par défaut" enabled="1" default="1">
+      <inputfile value="Main.pb"/>
+      <outputfile value=""/>
+      <options xpskin="1" debug="1"/>
+    </target>
+  </section>
+</project>
